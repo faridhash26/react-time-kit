@@ -1,0 +1,40 @@
+.CalenderWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.CalenderWrapper_header {
+  display: flex;
+  gap: 10px;
+  color: #676767;
+}
+.CalenderWrapper_icon {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.CalenderWrapper_header_title {
+  display: flex;
+  gap: 6px;
+}
+.CalenderWrapper_header_title span {
+  color: #f2634c;
+}
+.Calender_button_group {
+  display: flex;
+  gap: 10px;
+}
+.default_select_style {
+  display: flex;
+  width: 120px;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  padding-right: 10px;
+  color: #0db39f;
+  border-radius: 14px;
+  border: 1px solid #0db39f;
+  font-size: 18px;
+}
