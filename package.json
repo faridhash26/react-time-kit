@@ -1,12 +1,10 @@
 {
-  "name": "@sfaridhr/react-time-kit",
+  "name": "react-time-calender-kit",
   "version": "1.0.4",
   "description": "",
   "main": "build/index.js",
   "module": "build/index.es.js",
-  "publishConfig": {
-    "registry":"https://https://gitlab.mazraeapp.com/mazraeapp/front-end/farm-app/api/v4/projects/3/packages/npm/"
-  },
+
   "files": [
     "build"
   ],
