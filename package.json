@@ -1,9 +1,12 @@
 {
-  "name": "react-time-kit",
-  "version": "1.0.0",
+  "name": "@sfaridhr/react-time-kit",
+  "version": "1.0.4",
   "description": "",
   "main": "build/index.js",
   "module": "build/index.es.js",
+  "publishConfig": {
+    "registry":"https://https://gitlab.mazraeapp.com/mazraeapp/front-end/farm-app/api/v4/projects/3/packages/npm/"
+  },
   "files": [
     "build"
   ],
@@ -33,7 +36,6 @@
     "@types/react": "^18.2.21",
     "babel-loader": "^9.1.3",
     "babel-preset-react-app": "^10.0.1",
-    "jalali-moment": "^3.3.11",
     "moment": "^2.29.4",
     "node-sass": "^9.0.0",
     "react": "^18.2.0",

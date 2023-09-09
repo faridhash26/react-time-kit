@@ -1,1 +1,1 @@
-export { default } from "./CalenderWrapper";
+export { default as CalenderWrapper } from "./CalenderWrapper";
